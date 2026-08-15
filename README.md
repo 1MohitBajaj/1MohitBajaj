@@ -1,42 +1,87 @@
-# 👨‍💻 DevOps Engineer in the Making | Cloud & Automation Aficionado
+# 👨‍💻 Mohit Bajaj | DevOps Engineer in the Making
+
+### ☁️ Cloud | ⚙️ Automation | 🚀 CI/CD | 🐳 Containers
 
 <p align="center">
-  🚀 Automating the Path to Cloud Excellence 🚀
+  <b>Building, automating, and deploying scalable infrastructure with modern DevOps tools.</b>
+</p>
+
+<p align="center">
+  <a href="https://mohit-website.mohit-bajaj-scsebtech.workers.dev/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/mohit-bajaj-14314a17a/">💼 LinkedIn</a>
 </p>
 
 ---
 
-# 🌟 About Me
+## 🌟 About Me
 
-I'm Mohit Bajaj, an aspiring DevOps Engineer focused on building and automating cloud infrastructure and CI/CD pipelines.
+I'm **Mohit Bajaj**, an aspiring **DevOps Engineer** passionate about Cloud, Automation, Infrastructure as Code, and CI/CD.
 
-### 🚀 Current Focus:
+I enjoy building end-to-end DevOps workflows—from provisioning cloud infrastructure and containerizing applications to automating builds, testing, deployments, and monitoring.
 
-- ☁️ AWS Cloud & Infrastructure
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes
-- ⚡ Terraform & Ansible Automation
-- 🔄 CI/CD with Jenkins, GitHub Actions & GitLab CI
-- 📊 Monitoring with Prometheus & Grafana
+My goal is to build reliable, scalable, and automated infrastructure while continuously improving my skills in modern DevOps and cloud-native technologies.
 
 ---
 
-# 🛠️ Technical Arsenal
+## ⚡ What I'm Building With
 
-### 💻 OS & Networking
-Linux | Networking | Shell Scripting
+* ☁️ **Cloud Infrastructure** — Building and managing infrastructure with AWS
+* 🐳 **Containers** — Packaging and running applications with Docker
+* ☸️ **Orchestration** — Learning and working with Kubernetes
+* 🏗️ **Infrastructure as Code** — Automating infrastructure with Terraform & CloudFormation
+* ⚙️ **Configuration Management** — Managing systems with Ansible
+* 🔄 **CI/CD & GitOps** — Building automated pipelines with Jenkins, GitHub Actions, GitLab CI/CD & Argo CD
+* 📊 **Monitoring & Observability** — Exploring Prometheus & Grafana
+* 🐧 **Core Foundations** — Strengthening Linux, Networking, Shell Scripting & Python
 
-### ☁️ Cloud
-AWS
+---
 
-### 🐳 Containers
-Docker | Kubernetes
+## 🛠️ Technical Arsenal
 
-### ⚙️ CI/CD
-Jenkins | GitHub Actions | GitLab CI/CD
+### 🐧 Operating Systems & Scripting
 
-### 🏗️ Infrastructure as Code
-Terraform | Ansible
+`Linux` • `Shell Scripting` • `Python`
 
-### 📊 Monitoring
-Prometheus | Grafana
+### ☁️ AWS Cloud Services
+
+`EC2` • `S3` • `IAM` • `VPC` • `Security Groups` • `Lambda` • `RDS` • `CloudFormation` • `CloudFront` • `Elastic Beanstalk` • `ECS` • `ECR` • `EKS`
+
+### 🐳 Containers & Orchestration
+
+`Docker` • `Docker Compose` • `Kubernetes` • `Amazon ECS` • `Amazon EKS` • `Amazon ECR`
+
+### 🔄 CI/CD & GitOps
+
+`Jenkins` • `GitHub Actions` • `GitLab CI/CD` • `Argo CD`
+
+### 🔧 Version Control
+
+`Git` • `GitHub` • `GitLab`
+
+### 🏗️ Infrastructure as Code & Configuration Management
+
+`Terraform` • `AWS CloudFormation` • `Ansible`
+
+### 📊 Monitoring & Observability
+
+`Prometheus` • `Grafana`
+
+---
+
+## 🎯 Currently Exploring
+
+🔐 DevSecOps Tools
+🤖 AIOps & Generative AI for DevOps
+
+---
+
+## 📫 Let's Connect
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohit-bajaj-14314a17a/)
+🌐 **Portfolio:** [Visit my Portfolio](https://mohit-website.mohit-bajaj-scsebtech.workers.dev/)
+
+---
+
+<p align="center">
+  <b>⚡ Automate. Deploy. Monitor. Improve. Repeat. ⚡</b>
+</p>
