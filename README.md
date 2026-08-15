@@ -222,10 +222,9 @@ Python
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/1MohitBajaj/1MohitBajaj/main/devops-pipeline.gif?v=2"
+    src="https://raw.githubusercontent.com/1MohitBajaj/1MohitBajaj/main/devops-pipeline.gif"
     alt="Animated DevOps Automation Pipeline"
     width="900"
-    loading="lazy"
   />
 </p>
 
