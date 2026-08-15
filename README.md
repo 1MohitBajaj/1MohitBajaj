@@ -221,10 +221,11 @@ Python
 # ⚙️ The Automated Path I Follow
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/1MohitBajaj/1MohitBajaj/main/devops-pipeline.gif"
+  <img
+    src="https://raw.githubusercontent.com/1MohitBajaj/1MohitBajaj/main/devops-pipeline.gif?v=2"
     alt="Animated DevOps Automation Pipeline"
-    width="100%"
+    width="900"
+    loading="lazy"
   />
 </p>
 
