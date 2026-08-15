@@ -104,6 +104,7 @@ Ansible
 Jenkins  
 GitHub Actions  
 GitLab CI/CD
+Argo Cd
 
 </td>
 
