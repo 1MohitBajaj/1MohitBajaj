@@ -163,81 +163,35 @@ Working with monitoring and visualization tools:
 
 ---
 
-# ⚙️ The Automated Path I Follow
+## ⚙️ The Automated Path I Follow
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Code+%E2%86%92+Version+Control+%E2%86%92+CI%2FCD;Build+%26+Test+%E2%86%92+Docker+Image+%E2%86%92+Container+Registry;GitOps+Deployment+%E2%86%92+Argo+CD+%E2%86%92+Kubernetes%2FEKS;Monitor+%E2%86%92+Prometheus+%E2%86%92+Visualize+%E2%86%92+Grafana" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=700&color=36BCF7&center=true&vCenter=true&width=950&lines=01+%E2%86%92+Application+Code;02+%E2%86%92+Git+%26+Version+Control;03+%E2%86%92+CI%2FCD+Pipeline;04+%E2%86%92+Build+%26+Test;05+%E2%86%92+Docker+Containerization;06+%E2%86%92+ECR+%2F+Docker+Hub;07+%E2%86%92+Argo+CD+GitOps;08+%E2%86%92+Kubernetes+%2F+Amazon+EKS;09+%E2%86%92+Prometheus+Monitoring;10+%E2%86%92+Grafana+Visualization"
+    alt="Animated DevOps Pipeline"
+  />
 </p>
 
-This represents the end-to-end automated workflow I follow while building and deploying applications and infrastructure.
+<p align="center">
 
 ```text
-┌──────────────────────────────┐
-│         APPLICATION CODE     │
-│                              │
-│      Python / Application    │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│       VERSION CONTROL        │
-│                              │
-│   Git • GitHub • GitLab      │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│          CI PIPELINE         │
-│                              │
-│ Jenkins • GitHub Actions     │
-│ GitLab CI/CD                 │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│        BUILD & TEST          │
-│                              │
-│ Automated Build & Testing    │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│      CONTAINERIZATION        │
-│                              │
-│            Docker            │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│      CONTAINER REGISTRY      │
-│                              │
-│      Docker Hub • ECR        │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│      GITOPS DEPLOYMENT       │
-│                              │
-│           Argo CD            │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│       ORCHESTRATION          │
-│                              │
-│ Kubernetes • Amazon EKS      │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│     MONITORING & METRICS     │
-│                              │
-│          Prometheus          │
-└───────────────┬──────────────┘
-                │
-                ▼
-┌──────────────────────────────┐
-│        VISUALIZATION         │
-│                              │
-│           Grafana            │
-└──────────────────────────────┘
+Application Code
+       ↓
+Git / GitHub / GitLab
+       ↓
+CI/CD
+Jenkins • GitHub Actions • GitLab CI/CD
+       ↓
+Build & Test
+       ↓
+Docker
+       ↓
+ECR / Docker Hub
+       ↓
+Argo CD
+       ↓
+Kubernetes / Amazon EKS
+       ↓
+Prometheus
+       ↓
+Grafana
