@@ -31,6 +31,10 @@ Working with **AWS**, while expanding my knowledge across **Microsoft Azure** an
 ### 🏗️ Infrastructure as Code
 Provisioning and managing infrastructure using **Terraform** and **AWS CloudFormation**.
 
+### ⚙️ Configuration Management & Automation
+
+Automating server configuration, application deployment, and infrastructure operations using **Ansible**.
+
 ### 🔄 CI/CD & GitOps
 Building automated delivery workflows using **Jenkins, GitHub Actions, GitLab CI/CD, and Argo CD**.
 
