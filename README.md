@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Mohit Bajaj  Multi CLOUD DEVOPS ENGG.
+# 👋 Hey, I'm Mohit Bajaj | Multi Cloud DevOps Engineer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Cloud+%26+Automation;Building+Reliable+and+Scalable+Infrastructure;Automating+CI%2FCD+%26+Cloud+Workflows;Build.+Automate.+Deploy.+Monitor." />
@@ -26,9 +26,11 @@ My focus is on reducing manual effort and building infrastructure and deployment
 **Automated • Repeatable • Reliable • Scalable**
 
 ### ☁️ Cloud Platforms
+
 Working with **AWS**, while expanding my knowledge across **Microsoft Azure** and **Google Cloud Platform**.
 
 ### 🏗️ Infrastructure as Code
+
 Provisioning and managing infrastructure using **Terraform** and **AWS CloudFormation**.
 
 ### ⚙️ Configuration Management & Automation
@@ -36,12 +38,15 @@ Provisioning and managing infrastructure using **Terraform** and **AWS CloudForm
 Automating server configuration, application deployment, and infrastructure operations using **Ansible**.
 
 ### 🔄 CI/CD & GitOps
+
 Building automated delivery workflows using **Jenkins, GitHub Actions, GitLab CI/CD, and Argo CD**.
 
 ### 🐳 Containers & Kubernetes
+
 Containerizing applications with **Docker** and deploying workloads using **Kubernetes, ECS, and EKS**.
 
 ### 📊 Monitoring & Observability
+
 Monitoring infrastructure and applications using **Prometheus and Grafana**.
 
 > 💡 **Turning manual processes into automated, reliable, and scalable workflows.**
@@ -107,8 +112,8 @@ Ansible
 
 Jenkins  
 GitHub Actions  
-GitLab CI/CD
-Argo Cd
+GitLab CI/CD  
+Argo CD
 
 </td>
 
@@ -141,7 +146,7 @@ Python
 
 # 🛠️ Technical Arsenal
 
-## ☁️  Multi Cloud Platforms
+## ☁️ Multi Cloud Platforms
 
 ### 🟠 AWS
 
@@ -185,9 +190,9 @@ Python
 
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
 
-`Jenkins` • `Argo CD`  • `GitLab CI/CD`• `Github Actions
+`Jenkins` • `Argo CD` • `GitLab CI/CD` • `GitHub Actions`
 
-
+---
 
 ## 🏗️ Infrastructure as Code & Configuration
 
@@ -216,42 +221,14 @@ Python
 # ⚙️ The Automated Path I Follow
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=1800&pause=500&color=36BCF7&center=true&vCenter=true&width=1100&lines=01+%E2%9C%85+Code+%E2%86%92+Version+Control;02+%E2%9C%85+Git+Push+%E2%86%92+CI%2FCD+Pipeline;03+%E2%9C%85+CI%2FCD+%E2%86%92+Build+%26+Test;04+%E2%9C%85+Build+Successful+%E2%86%92+Docker+Image;05+%E2%9C%85+Docker+Image+%E2%86%92+ECR+%2F+Docker+Hub;06+%E2%9C%85+New+Image+%E2%86%92+GitOps+Deployment;07+%E2%9C%85+Argo+CD+%E2%86%92+Kubernetes+%2F+EKS;08+%E2%9C%85+Deployment+%E2%86%92+Prometheus+Monitoring;09+%E2%9C%85+Prometheus+%E2%86%92+Grafana+Dashboard;10+%F0%9F%9A%80+Pipeline+Completed+Successfully" />
-
+  <img src="./devops-pipeline.gif"
+       alt="Animated DevOps Automation Pipeline"
+       width="100%" />
 </p>
 
-<p align="center">
+> ⚡ **From Code → CI/CD → Build & Test → Docker → Registry → Argo CD → Kubernetes → Monitoring → Grafana**
 
-**CODE**  
-↓  
-**GIT / GITHUB / GITLAB**  
-↓  
-**CI/CD**  
-↓  
-**BUILD & TEST**  
-↓  
-**DOCKER**  
-↓  
-**ECR / DOCKER HUB**  
-↓  
-**ARGO CD**  
-↓  
-**KUBERNETES / EKS**  
-↓  
-**PROMETHEUS**  
-↓  
-**GRAFANA**
-
-</p>
-
-<p align="center">
-
-`Code` → `Git` → `CI/CD` → `Build & Test` → `Docker` → `Registry` → `Argo CD` → `Kubernetes/EKS` → `Prometheus` → `Grafana`
-
-</p>
-
-> ⚡ **Each stage triggers the next step, creating an automated path from code to deployment and monitoring.**
+> 🚀 **Each stage automatically moves toward the next, creating an end-to-end automated DevOps workflow.**
 
 ---
 
@@ -260,8 +237,6 @@ Python
 🔐 **DevSecOps**
 
 🤖 **AIOps & Generative AI for DevOps**
-
-
 
 ---
 
