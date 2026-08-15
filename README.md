@@ -1,4 +1,4 @@
-# 👨‍💻 Mohit Bajaj | DevOps Engineer in the Making
+# 👨‍💻 Mohit Bajaj | AWS DevOps Engineer 
 
 ### ☁️ Cloud | ⚙️ Automation | 🚀 CI/CD | 🐳 Containers
 
