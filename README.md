@@ -1,32 +1,37 @@
 # 👨‍💻 Hey, I'm Mohit Bajaj
 
-### 🚀 Aspiring DevOps Engineer | Cloud & Automation Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=DevOps+Engineer+%7C+Cloud+%26+Automation;Building+Reliable+and+Scalable+Infrastructure;Automating+Workflows+with+Modern+DevOps+Tools;Build.+Automate.+Deploy.+Monitor." />
+</p>
 
 <p align="center">
-  <a href="https://mohit-website.mohit-bajaj-scsebtech.workers.dev/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Website-00D9FF?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohit-bajaj-14314a17a/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge" />
-  </a>
+  ☁️ Cloud &nbsp; • &nbsp;
+  ⚙️ Automation &nbsp; • &nbsp;
+  🚀 CI/CD & GitOps &nbsp; • &nbsp;
+  🐳 Containers &nbsp; • &nbsp;
+  ☸️ Kubernetes
 </p>
 
 ---
 
 ## 🌟 About Me
 
-I'm **Mohit Bajaj**, an aspiring **DevOps Engineer** with a strong interest in **Cloud Infrastructure, Automation, CI/CD, Containers, and Cloud-Native technologies**.
+I'm **Mohit Bajaj**, a **DevOps Engineer** focused on Cloud Infrastructure, Automation, CI/CD, Containers, GitOps, and Cloud-Native technologies.
 
-I enjoy understanding how modern applications move from **code to production** and building the automation around that journey. My focus is on learning and applying DevOps practices to create infrastructure and deployment workflows that are more **reliable, repeatable, and scalable**.
+I work across the DevOps lifecycle—from provisioning infrastructure and automating configuration to building CI/CD pipelines, containerizing applications, managing deployments, and implementing monitoring and observability.
 
-🔹 **Cloud:** Building and exploring infrastructure on AWS
-🔹 **Automation:** Automating infrastructure and configuration with Terraform & Ansible
-🔹 **CI/CD:** Building automated pipelines with Jenkins, GitHub Actions & GitLab CI/CD
-🔹 **Containers:** Working with Docker and Kubernetes
-🔹 **GitOps:** Exploring declarative deployments with Argo CD
-🔹 **Observability:** Learning monitoring with Prometheus & Grafana
+My approach is focused on reducing manual effort and building infrastructure and deployment workflows that are **automated, repeatable, reliable, and scalable**.
 
-> 💡 **My goal: Turn manual processes into automated, repeatable workflows.**
+- ☁️ Working with **AWS Cloud Infrastructure**
+- 🏗️ Automating infrastructure with **Terraform & CloudFormation**
+- ⚙️ Managing configuration and automation with **Ansible**
+- 🔄 Building CI/CD pipelines with **Jenkins, GitHub Actions & GitLab CI/CD**
+- 📦 Implementing GitOps workflows with **Argo CD**
+- 🐳 Working with **Docker, Kubernetes, ECS & EKS**
+- 📊 Monitoring systems with **Prometheus & Grafana**
+- 🐧 Working with **Linux, Shell Scripting, Networking & Python**
+
+> 💡 **Focused on turning manual processes into automated and reliable workflows.**
 
 ---
 
@@ -38,15 +43,19 @@ I enjoy understanding how modern applications move from **code to production** a
 
 ### ☁️ Cloud & Infrastructure
 
-Building and managing cloud infrastructure with **AWS**, including compute, networking, storage, databases, containers, and deployment services.
+Building and managing cloud infrastructure using AWS services for compute, networking, storage, databases, application deployment, and containers.
 
 ### 🏗️ Infrastructure as Code
 
-Provisioning and managing infrastructure using **Terraform** and **AWS CloudFormation**.
+Provisioning and managing infrastructure using:
+
+**Terraform • AWS CloudFormation**
 
 ### ⚙️ Automation
 
-Automating configuration and operational tasks using **Ansible, Shell Scripting, and Python**.
+Automating configuration and operational tasks using:
+
+**Ansible • Shell Scripting • Python**
 
 </td>
 
@@ -54,15 +63,21 @@ Automating configuration and operational tasks using **Ansible, Shell Scripting,
 
 ### 🔄 CI/CD & GitOps
 
-Creating automated build and deployment workflows using **Jenkins, GitHub Actions, GitLab CI/CD, and Argo CD**.
+Building automated delivery workflows using:
 
-### 🐳 Containers & Kubernetes
+**Jenkins • GitHub Actions • GitLab CI/CD • Argo CD**
 
-Containerizing applications with **Docker** and working with **Kubernetes and Amazon EKS**.
+### 🐳 Containers & Orchestration
+
+Containerizing and deploying applications using:
+
+**Docker • Docker Compose • Kubernetes • Amazon ECS • Amazon EKS**
 
 ### 📊 Monitoring & Observability
 
-Exploring metrics, dashboards, and monitoring using **Prometheus and Grafana**.
+Working with monitoring and visualization tools:
+
+**Prometheus • Grafana**
 
 </td>
 </tr>
@@ -78,13 +93,23 @@ Exploring metrics, dashboards, and monitoring using **Prometheus and Grafana**.
   <img src="https://skillicons.dev/icons?i=linux,bash,python&perline=10" />
 </p>
 
+`Linux` • `Shell Scripting` • `Python`
+
+---
+
 ### ☁️ AWS Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws&perline=10" />
 </p>
 
-`EC2` • `S3` • `IAM` • `VPC` • `Security Groups` • `Lambda` • `RDS` • `CloudFormation` • `CloudFront` • `Elastic Beanstalk` • `ECS` • `ECR` • `EKS`
+`EC2` • `S3` • `IAM` • `VPC` • `Security Groups` • `Lambda` • `RDS`
+
+`CloudFormation` • `CloudFront` • `Elastic Beanstalk`
+
+`ECS` • `ECR` • `EKS`
+
+---
 
 ### 🐳 Containers & Orchestration
 
@@ -92,7 +117,11 @@ Exploring metrics, dashboards, and monitoring using **Prometheus and Grafana**.
   <img src="https://skillicons.dev/icons?i=docker,kubernetes&perline=10" />
 </p>
 
-`Docker` • `Docker Compose` • `Kubernetes` • `Amazon ECS` • `Amazon EKS` • `Amazon ECR`
+`Docker` • `Docker Compose` • `Kubernetes`
+
+`Amazon ECS` • `Amazon EKS` • `Amazon ECR`
+
+---
 
 ### 🔄 CI/CD & GitOps
 
@@ -102,6 +131,8 @@ Exploring metrics, dashboards, and monitoring using **Prometheus and Grafana**.
 
 `Jenkins` • `GitHub Actions` • `GitLab CI/CD` • `Argo CD`
 
+---
+
 ### 🔧 Version Control
 
 <p>
@@ -110,6 +141,8 @@ Exploring metrics, dashboards, and monitoring using **Prometheus and Grafana**.
 
 `Git` • `GitHub` • `GitLab`
 
+---
+
 ### 🏗️ Infrastructure & Configuration Automation
 
 <p>
@@ -117,6 +150,8 @@ Exploring metrics, dashboards, and monitoring using **Prometheus and Grafana**.
 </p>
 
 `Terraform` • `AWS CloudFormation` • `Ansible`
+
+---
 
 ### 📊 Monitoring & Observability
 
@@ -128,53 +163,81 @@ Exploring metrics, dashboards, and monitoring using **Prometheus and Grafana**.
 
 ---
 
-## 🚀 My DevOps Journey
+# ⚙️ The Automated Path I Follow
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Code+%E2%86%92+Version+Control+%E2%86%92+CI%2FCD;Build+%26+Test+%E2%86%92+Docker+Image+%E2%86%92+Container+Registry;GitOps+Deployment+%E2%86%92+Argo+CD+%E2%86%92+Kubernetes%2FEKS;Monitor+%E2%86%92+Prometheus+%E2%86%92+Visualize+%E2%86%92+Grafana" />
+</p>
+
+This represents the end-to-end automated workflow I follow while building and deploying applications and infrastructure.
 
 ```text
-Code
-  ↓
-Git / GitHub / GitLab
-  ↓
-CI/CD
-Jenkins • GitHub Actions • GitLab CI/CD
-  ↓
-Build & Test
-  ↓
-Containerization
-Docker
-  ↓
-Container Registry
-ECR / Docker Hub
-  ↓
-GitOps Deployment
-Argo CD
-  ↓
-Kubernetes / Amazon EKS
-  ↓
-Monitoring
-Prometheus + Grafana
-```
-
----
-
-## 🎯 Currently Exploring
-
-🔐 **DevSecOps**
-🤖 **AIOps & Generative AI for DevOps**
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohit-bajaj-14314a17a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Bajaj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mohit-website.mohit-bajaj-scsebtech.workers.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>☁️ Build. Automate. Deploy. Monitor. Improve. 🚀</b>
-</p>
+┌──────────────────────────────┐
+│         APPLICATION CODE     │
+│                              │
+│      Python / Application    │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│       VERSION CONTROL        │
+│                              │
+│   Git • GitHub • GitLab      │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│          CI PIPELINE         │
+│                              │
+│ Jenkins • GitHub Actions     │
+│ GitLab CI/CD                 │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│        BUILD & TEST          │
+│                              │
+│ Automated Build & Testing    │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│      CONTAINERIZATION        │
+│                              │
+│            Docker            │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│      CONTAINER REGISTRY      │
+│                              │
+│      Docker Hub • ECR        │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│      GITOPS DEPLOYMENT       │
+│                              │
+│           Argo CD            │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│       ORCHESTRATION          │
+│                              │
+│ Kubernetes • Amazon EKS      │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│     MONITORING & METRICS     │
+│                              │
+│          Prometheus          │
+└───────────────┬──────────────┘
+                │
+                ▼
+┌──────────────────────────────┐
+│        VISUALIZATION         │
+│                              │
+│           Grafana            │
+└──────────────────────────────┘
