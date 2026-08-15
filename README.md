@@ -97,7 +97,7 @@ Working with monitoring and visualization tools:
 
 ---
 
-### ☁️ AWS Cloud
+### ☁️ AWS Cloud ,Azure cloud , Gcp Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws&perline=10" />
