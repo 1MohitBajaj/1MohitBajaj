@@ -17,7 +17,7 @@
 
 ## 🌟 About Me
 
-I'm **Mohit Bajaj**, a **DevOps Engineer** focused on Cloud Infrastructure, Automation, CI/CD, Containers, GitOps, and Cloud-Native technologies.
+I'm **Mohit Bajaj**, a **Multi Cloud DevOps Engineer** focused on Cloud Infrastructure, Automation, CI/CD, Containers, GitOps, and Cloud-Native technologies.
 
 I work across the DevOps lifecycle — from provisioning infrastructure and automating configuration to building CI/CD pipelines, containerizing applications, deploying workloads, and implementing monitoring and observability.
 
@@ -136,7 +136,7 @@ Python
 
 # 🛠️ Technical Arsenal
 
-## ☁️ Cloud Platforms
+## ☁️  Multi Cloud Platforms
 
 ### 🟠 AWS
 
@@ -180,17 +180,9 @@ Python
 
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
 
-`Jenkins` • `GitHub Actions` • `GitLab CI/CD`
+`Jenkins` • `Argo CD`  • `GitLab CI/CD`• `Github Actions
 
-### 🚀 GitOps
 
-`Argo CD`
-
-`Argo CD Notifications` • `Argo CD Image Updater`
-
-`Argo CD RBAC` • `Argo CD Monitoring`
-
----
 
 ## 🏗️ Infrastructure as Code & Configuration
 
@@ -264,7 +256,7 @@ Python
 
 🤖 **AIOps & Generative AI for DevOps**
 
-☸️ **Advanced Kubernetes & Cloud-Native Technologies**
+
 
 ---
 
