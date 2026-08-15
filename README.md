@@ -221,14 +221,22 @@ Python
 # ⚙️ The Automated Path I Follow
 
 <p align="center">
-  <img src="./devops-pipeline.gif"
-       alt="Animated DevOps Automation Pipeline"
-       width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/1MohitBajaj/1MohitBajaj/main/devops-pipeline.gif"
+    alt="Animated DevOps Automation Pipeline"
+    width="100%"
+  />
 </p>
 
-> ⚡ **From Code → CI/CD → Build & Test → Docker → Registry → Argo CD → Kubernetes → Monitoring → Grafana**
+<p align="center">
+  ⚡ <b>From Code to Production — Fully Automated DevOps Workflow</b> ⚡
+</p>
 
-> 🚀 **Each stage automatically moves toward the next, creating an end-to-end automated DevOps workflow.**
+<p align="center">
+  Code → Version Control → CI/CD → Build & Test → Docker → Registry → GitOps → Argo CD → Kubernetes / EKS → Prometheus → Grafana
+</p>
+
+> 🚀 **Each stage automatically triggers the next, creating an end-to-end automated workflow from code to deployment and monitoring.**
 
 ---
 
@@ -245,13 +253,13 @@ Python
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mohit-bajaj-14314a17a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://mohit-website.mohit-bajaj-scsebtech.workers.dev/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </p>
